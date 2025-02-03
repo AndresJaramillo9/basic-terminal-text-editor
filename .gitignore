@@ -1,0 +1,5 @@
+.vscode
+PDFs
+*.o
+*.zip
+strops
